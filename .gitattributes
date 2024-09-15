@@ -1,0 +1,8 @@
+train.csv filter=lfs diff=lfs merge=lfs -text
+sample_submission.csv filter=lfs diff=lfs merge=lfs -text
+test.csv filter=lfs diff=lfs merge=lfs -text
+baseline_0.22395.csv filter=lfs diff=lfs merge=lfs -text
+baseline_pca50.csv filter=lfs diff=lfs merge=lfs -text
+baseline_pca80.csv filter=lfs diff=lfs merge=lfs -text
+baseline_pca95.csv filter=lfs diff=lfs merge=lfs -text
+baseline_rf.csv filter=lfs diff=lfs merge=lfs -text
